@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    width: 500px;
+    height: 350px;
+    background-color: rgb(86, 125, 125);
+    margin: auto;
+}
+.sign{
+    padding-top: 30px;
+    font-style: italic;
+}
+
+.names{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 180px;
+    padding: 5px;
+    background-color: rgb(232, 221, 207);
+  margin-top: 20px;
+  border-style: hidden;
+
+}
+.pass{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 180px;
+    padding: 5px;
+    background-color: rgb(232, 221, 207);
+    margin-top: 10px;
+}
+.email{  border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 180px;
+    padding: 5px;
+    background-color: rgb(232, 221, 207);
+  
+
+}
+.con{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 180px;
+    padding: 5px;
+    background-color: rgb(232, 221, 207);
+}
+.btn{
+    padding: 10px;
+    background-color: rgb(33, 93, 123);
+    border-style: hidden;
+    border-radius: 10px;
+
+}
+.btn:hover{
+    background-color: rgb(12, 46, 47);
+    color: white;
+}
